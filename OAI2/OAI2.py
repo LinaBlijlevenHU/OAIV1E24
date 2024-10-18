@@ -1,0 +1,1 @@
+print("Getallen - Logaritmen en rijen")
