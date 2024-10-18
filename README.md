@@ -58,7 +58,7 @@ moeten we eigenlijk altijd weten hoe onze data verdeeld is en hoe dit eruit ziet
 
 ### Repositories & Code
 
-![Multiple linear regression visualization](img/multiple_linear_regression.png)
+![Multiple linear regression visualization](img/multivariate_regression_animation.gif)
 
 - In [deze repository](https://github.com/SelinaBlijleven/AI-tools-learning) 
 werk ik aan cursusmaterialen voor AI. Momenteel kun je hier vooral visualisaties vinden van Machine Learning algoritmes (en de 
